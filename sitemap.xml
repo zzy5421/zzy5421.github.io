@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 以后每新增一个页面，在下面加一条 <url>，把 <loc> 换成对应网址即可 -->
+  <url>
+    <loc>https://zzy5421.github.io/</loc>
+  </url>
+</urlset>
